@@ -1,6 +1,6 @@
 <details>
   <summary>[EN] Simple indexof PHP</summary>
-
+##[EN] Simple indexof PHP
   The Simple indexof PHP project is a web application designed to simplify the viewing and navigation of content in online directories. With an intuitive interface and dynamic features, it provides an easy solution for exploring file and folder hierarchies directly in the browser.
 
   ### Key Features
@@ -22,7 +22,7 @@
 
 <details>
   <summary>[PT-BR] Simple indexof PHP</summary>
-
+##[PT-BR] Simple indexof PHP
   O projeto Simple indexof PHP é uma aplicação web projetada para simplificar a visualização e navegação de conteúdos em diretórios online. Com uma interface intuitiva e recursos dinâmicos, ele oferece uma solução fácil para explorar hierarquias de arquivos e pastas diretamente no navegador.
 
   ### Recursos Destacados
